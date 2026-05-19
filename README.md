@@ -14,6 +14,20 @@ This project analyzes 25 years of workforce and financial data across 25 major t
 
 The goal was to uncover whether workforce metrics are meaningful signals of company performance — or just noise.
 
+
+---
+
+
+## Repository Structure
+
+```
+tech-workforce-analysis/
+├── README.md
+├── snowflake_setup.md              # Instructions for setting up the Kaggle dataset in Snowflake
+├── tech_workforce_analysis.sql     # SQL scripts for each of the 7 analysis questions
+├── Tech Workforce Dashboard.twbx   # Dashboard Tableau file
+├── tech_workforce_dashboard.png    # Final Tableau dashboard screenshot
+```
 ---
 
 ## Key Findings
@@ -58,16 +72,3 @@ The Tableau dashboard covers:
 - **Hiring Rate & Attrition Rate vs Stock Performance** comparison tables
 
 ![Dashboard Preview]<img width="1604" height="963" alt="tech_workforce_dashboard" src="https://github.com/user-attachments/assets/519e9654-0235-4c52-be49-8b88fa4374c7" />
-
-
----
-
-## Repository Structure
-
-```
-├── README.md
-├── snowflake_setup.md              # Instructions for setting up the Kaggle dataset in Snowflake
-├── tech_workforce_analysis.sql     # SQL scripts for each of the 7 analysis questions
-├── Tech Workforce Dashboard.twbx   # Dashboard Tableau file
-├── tech_workforce_dashboard.png    # Final Tableau dashboard screenshot
-```
