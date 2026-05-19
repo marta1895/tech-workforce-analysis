@@ -71,4 +71,4 @@ The Tableau dashboard covers:
 - **Revenue per Employee vs Stock Change** scatter plot with trend lines per group
 - **Hiring Rate & Attrition Rate vs Stock Performance** comparison tables
 
-![Dashboard Preview]<img width="1604" height="963" alt="tech_workforce_dashboard" src="https://github.com/user-attachments/assets/519e9654-0235-4c52-be49-8b88fa4374c7" />
+Dashboard Preview: <img width="1604" height="963" alt="tech_workforce_dashboard" src="https://github.com/user-attachments/assets/519e9654-0235-4c52-be49-8b88fa4374c7" />
